@@ -1,0 +1,2136 @@
+Rendering Time:0.000272
+
+16, 8, 5
+Algorithm Time: 2.3e-05
+Rendering Time:0.000183
+
+16, 8, 5
+Algorithm Time: 1.9e-05
+Rendering Time:0.000226
+
+16, 8, 5
+Algorithm Time: 1.6e-05
+Rendering Time:0.000153
+
+16, 8, 5
+Algorithm Time: 2.1e-05
+Rendering Time:0.000167
+
+16, 8, 5
+Algorithm Time: 2.3e-05
+Rendering Time:0.001049
+
+32, 16, 5
+Algorithm Time: 7e-05
+Rendering Time:0.000413
+
+32, 16, 5
+Algorithm Time: 5e-05
+Rendering Time:0.000698
+
+32, 16, 5
+Algorithm Time: 7.9e-05
+Rendering Time:0.000406
+
+32, 16, 5
+Algorithm Time: 5.1e-05
+Rendering Time:0.000411
+
+32, 16, 5
+Algorithm Time: 5e-05
+Rendering Time:0.002607
+
+64, 32, 5
+Algorithm Time: 0.000236
+Rendering Time:0.001528
+
+64, 32, 5
+Algorithm Time: 0.000233
+Rendering Time:0.001888
+
+64, 32, 5
+Algorithm Time: 0.000261
+Rendering Time:0.002627
+
+64, 32, 5
+Algorithm Time: 0.000319
+Rendering Time:0.001518
+
+64, 32, 5
+Algorithm Time: 0.000244
+Rendering Time:0.002936
+
+64, 32, 5
+Algorithm Time: 0.000197
+Rendering Time:0.011722
+
+128, 64, 5
+Algorithm Time: 0.000817
+Rendering Time:0.008465
+
+128, 64, 5
+Algorithm Time: 0.000867
+Rendering Time:0.011515
+
+128, 64, 5
+Algorithm Time: 0.001249
+Rendering Time:0.011495
+
+128, 64, 5
+Algorithm Time: 0.001253
+Rendering Time:0.055486
+
+256, 128, 5
+Algorithm Time: 0.00538
+Rendering Time:0.034503
+
+256, 128, 5
+Algorithm Time: 0.00339
+Rendering Time:0.045693
+
+256, 128, 5
+Algorithm Time: 0.004839
+Rendering Time:0.045184
+
+256, 128, 5
+Algorithm Time: 0.004742
+Rendering Time:0.040709
+
+256, 128, 5
+Algorithm Time: 0.004888
+Rendering Time:0.035459
+
+256, 128, 5
+Algorithm Time: 0.003257
+Rendering Time:0.030803
+
+Rendering Time:0.008155
+
+Rendering Time:0.03404
+
+Rendering Time:0.012532
+
+Rendering Time:0.023613
+
+Rendering Time:0.008566
+
+Rendering Time:0.010713
+
+Rendering Time:0.012492
+
+Rendering Time:0.011641
+
+Rendering Time:0.012668
+
+128, 32, 8
+Algorithm Time: 0.000857
+Rendering Time:0.018796
+
+Rendering Time:0.018055
+
+128, 32, 8
+Algorithm Time: 0.001218
+Rendering Time:0.017928
+
+Rendering Time:0.01353
+
+Rendering Time:0.010022
+
+Rendering Time:0.010841
+
+Rendering Time:0.0101
+
+Rendering Time:0.008323
+
+Rendering Time:0.00792
+
+Rendering Time:0.010301
+
+Rendering Time:0.00807
+
+Rendering Time:0.007389
+
+Rendering Time:0.006933
+
+Rendering Time:0.010155
+
+Rendering Time:0.010903
+
+Rendering Time:0.00701
+
+Rendering Time:0.011226
+
+Rendering Time:0.008562
+
+Rendering Time:0.009988
+
+Rendering Time:0.010837
+
+Rendering Time:0.010857
+
+Rendering Time:0.010792
+
+Rendering Time:0.009098
+
+Rendering Time:0.011036
+
+Rendering Time:0.00888
+
+Rendering Time:0.008468
+
+Rendering Time:0.009009
+
+Rendering Time:0.011017
+
+Rendering Time:0.008665
+
+Rendering Time:0.011287
+
+Rendering Time:0.008019
+
+Rendering Time:0.008795
+
+Rendering Time:0.007191
+
+Rendering Time:0.009452
+
+Rendering Time:0.011459
+
+Rendering Time:0.012041
+
+Rendering Time:0.012072
+
+Rendering Time:0.010067
+
+Rendering Time:0.012651
+
+Rendering Time:0.008766
+
+Rendering Time:0.010216
+
+Rendering Time:0.012422
+
+Rendering Time:0.010798
+
+Rendering Time:0.011506
+
+Rendering Time:0.009223
+
+Rendering Time:0.007169
+
+Rendering Time:0.007903
+
+Rendering Time:0.008006
+
+Rendering Time:0.007801
+
+Rendering Time:0.009218
+
+Rendering Time:0.007889
+
+Rendering Time:0.008844
+
+Rendering Time:0.011552
+
+Rendering Time:0.010721
+
+Rendering Time:0.008214
+
+Rendering Time:0.007889
+
+Rendering Time:0.011434
+
+Rendering Time:0.011266
+
+Rendering Time:0.01059
+
+Rendering Time:0.008734
+
+Rendering Time:0.01071
+
+Rendering Time:0.010077
+
+Rendering Time:0.011849
+
+Rendering Time:0.011572
+
+Rendering Time:0.00919
+
+Rendering Time:0.00822
+
+Rendering Time:0.010383
+
+Rendering Time:0.008127
+
+Rendering Time:0.00736
+
+Rendering Time:0.008653
+
+Rendering Time:0.009742
+
+Rendering Time:0.00932
+
+Rendering Time:0.007551
+
+Rendering Time:0.007631
+
+Rendering Time:0.007922
+
+Rendering Time:0.011467
+
+Rendering Time:0.009665
+
+Rendering Time:0.008478
+
+Rendering Time:0.008316
+
+Rendering Time:0.008421
+
+Rendering Time:0.010865
+
+Rendering Time:0.009382
+
+Rendering Time:0.008227
+
+Rendering Time:0.010097
+
+Rendering Time:0.009739
+
+Rendering Time:0.008302
+
+Rendering Time:0.010223
+
+Rendering Time:0.009758
+
+Rendering Time:0.008884
+
+Rendering Time:0.008156
+
+Rendering Time:0.008768
+
+Rendering Time:0.011441
+
+Rendering Time:0.01187
+
+Rendering Time:0.009965
+
+Rendering Time:0.010382
+
+Rendering Time:0.007685
+
+Rendering Time:0.008398
+
+Rendering Time:0.009531
+
+Rendering Time:0.007258
+
+Rendering Time:0.008471
+
+Rendering Time:0.010135
+
+Rendering Time:0.011022
+
+Rendering Time:0.00821
+
+Rendering Time:0.008146
+
+Rendering Time:0.010152
+
+Rendering Time:0.007138
+
+Rendering Time:0.007817
+
+Rendering Time:0.008165
+
+Rendering Time:0.011347
+
+Rendering Time:0.011362
+
+Rendering Time:0.008466
+
+Rendering Time:0.00803
+
+Rendering Time:0.007877
+
+Rendering Time:0.007241
+
+Rendering Time:0.007733
+
+Rendering Time:0.009787
+
+Rendering Time:0.008683
+
+Rendering Time:0.008939
+
+Rendering Time:0.010422
+
+Rendering Time:0.011267
+
+Rendering Time:0.010221
+
+Rendering Time:0.01139
+
+Rendering Time:0.007215
+
+Rendering Time:0.008759
+
+Rendering Time:0.007413
+
+Rendering Time:0.008379
+
+Rendering Time:0.009796
+
+Rendering Time:0.008231
+
+Rendering Time:0.009158
+
+Rendering Time:0.007368
+
+Rendering Time:0.011193
+
+Rendering Time:0.006785
+
+Rendering Time:0.007142
+
+Rendering Time:0.007105
+
+Rendering Time:0.011303
+
+Rendering Time:0.007075
+
+Rendering Time:0.010382
+
+Rendering Time:0.007855
+
+Rendering Time:0.010681
+
+Rendering Time:0.010599
+
+Rendering Time:0.010125
+
+Rendering Time:0.009774
+
+Rendering Time:0.009658
+
+Rendering Time:0.009718
+
+Rendering Time:0.011002
+
+Rendering Time:0.009628
+
+Rendering Time:0.009555
+
+Rendering Time:0.009171
+
+Rendering Time:0.009072
+
+Rendering Time:0.012472
+
+Rendering Time:0.010841
+
+Rendering Time:0.010091
+
+Rendering Time:0.011678
+
+Rendering Time:0.010923
+
+Rendering Time:0.010702
+
+Rendering Time:0.007661
+
+Rendering Time:0.006876
+
+Rendering Time:0.009352
+
+Rendering Time:0.006812
+
+Rendering Time:0.009697
+
+Rendering Time:0.008064
+
+Rendering Time:0.010792
+
+Rendering Time:0.011144
+
+Rendering Time:0.009614
+
+Rendering Time:0.00952
+
+Rendering Time:0.008519
+
+Rendering Time:0.007926
+
+Rendering Time:0.009114
+
+Rendering Time:0.009151
+
+Rendering Time:0.011302
+
+Rendering Time:0.011197
+
+Rendering Time:0.010421
+
+Rendering Time:0.011442
+
+Rendering Time:0.008955
+
+Rendering Time:0.009996
+
+Rendering Time:0.011106
+
+Rendering Time:0.010185
+
+Rendering Time:0.009697
+
+Rendering Time:0.010459
+
+Rendering Time:0.01273
+
+Rendering Time:0.010215
+
+Rendering Time:0.012147
+
+Rendering Time:0.010637
+
+Rendering Time:0.013304
+
+Rendering Time:0.011358
+
+Rendering Time:0.011674
+
+Rendering Time:0.009705
+
+Rendering Time:0.010399
+
+Rendering Time:0.009555
+
+Rendering Time:0.009417
+
+Rendering Time:0.009567
+
+Rendering Time:0.010128
+
+Rendering Time:0.008634
+
+Rendering Time:0.009836
+
+Rendering Time:0.009011
+
+Rendering Time:0.009503
+
+Rendering Time:0.008193
+
+Rendering Time:0.007995
+
+Rendering Time:0.012928
+
+128, 32, 8
+Algorithm Time: 0.000894
+Rendering Time:0.012763
+
+Rendering Time:0.018117
+
+128, 32, 8
+Algorithm Time: 0.001203
+Rendering Time:0.012678
+
+Rendering Time:0.012425
+
+Rendering Time:0.00725
+
+128, 32, 8
+Algorithm Time: 0.000777
+Rendering Time:0.012765
+
+Rendering Time:0.012202
+
+Rendering Time:0.011874
+
+Rendering Time:0.01225
+
+Rendering Time:0.009218
+
+Rendering Time:0.01178
+
+Rendering Time:0.011951
+
+Rendering Time:0.01095
+
+Rendering Time:0.008646
+
+Rendering Time:0.009555
+
+Rendering Time:0.012215
+
+Rendering Time:0.010114
+
+Rendering Time:0.011692
+
+Rendering Time:0.01246
+
+Rendering Time:0.008908
+
+Rendering Time:0.011031
+
+Rendering Time:0.010265
+
+Rendering Time:0.009321
+
+Rendering Time:0.011769
+
+Rendering Time:0.010516
+
+Rendering Time:0.011648
+
+Rendering Time:0.007279
+
+Rendering Time:0.007092
+
+Rendering Time:0.007771
+
+Rendering Time:0.007383
+
+Rendering Time:0.011855
+
+Rendering Time:0.012689
+
+Rendering Time:0.011736
+
+Rendering Time:0.00946
+
+Rendering Time:0.008688
+
+Rendering Time:0.008244
+
+Rendering Time:0.011193
+
+Rendering Time:0.009644
+
+Rendering Time:0.011429
+
+Rendering Time:0.010931
+
+Rendering Time:0.011276
+
+Rendering Time:0.010832
+
+Rendering Time:0.012543
+
+Rendering Time:0.009993
+
+Rendering Time:0.009537
+
+Rendering Time:0.008616
+
+Rendering Time:0.010795
+
+Rendering Time:0.010318
+
+Rendering Time:0.009707
+
+Rendering Time:0.007386
+
+Rendering Time:0.011961
+
+Rendering Time:0.010676
+
+Rendering Time:0.009413
+
+Rendering Time:0.010141
+
+Rendering Time:0.008816
+
+Rendering Time:0.008552
+
+Rendering Time:0.011364
+
+Rendering Time:0.010418
+
+Rendering Time:0.009103
+
+Rendering Time:0.008383
+
+Rendering Time:0.009018
+
+Rendering Time:0.009608
+
+Rendering Time:0.008874
+
+Rendering Time:0.019929
+
+Rendering Time:0.007683
+
+Rendering Time:0.012319
+
+Rendering Time:0.007211
+
+Rendering Time:0.011064
+
+Rendering Time:0.014975
+
+Rendering Time:0.007923
+
+Rendering Time:0.011203
+
+Rendering Time:0.011657
+
+Rendering Time:0.011102
+
+Rendering Time:0.007598
+
+Rendering Time:0.010075
+
+Rendering Time:0.011652
+
+Rendering Time:0.009736
+
+Rendering Time:0.008977
+
+Rendering Time:0.012158
+
+Rendering Time:0.01161
+
+Rendering Time:0.011515
+
+Rendering Time:0.009455
+
+Rendering Time:0.008968
+
+Rendering Time:0.010824
+
+Rendering Time:0.010014
+
+Rendering Time:0.011146
+
+Rendering Time:0.007882
+
+Rendering Time:0.011999
+
+Rendering Time:0.014061
+
+Rendering Time:0.011263
+
+Rendering Time:0.007967
+
+Rendering Time:0.010154
+
+Rendering Time:0.008418
+
+Rendering Time:0.00959
+
+Rendering Time:0.011486
+
+Rendering Time:0.008206
+
+Rendering Time:0.011536
+
+Rendering Time:0.008714
+
+Rendering Time:0.009504
+
+Rendering Time:0.009821
+
+Rendering Time:0.008495
+
+Rendering Time:0.010269
+
+Rendering Time:0.007286
+
+Rendering Time:0.011147
+
+Rendering Time:0.007901
+
+Rendering Time:0.011161
+
+Rendering Time:0.009519
+
+Rendering Time:0.007738
+
+Rendering Time:0.011804
+
+Rendering Time:0.00848
+
+Rendering Time:0.011356
+
+Rendering Time:0.00778
+
+Rendering Time:0.011037
+
+Rendering Time:0.007525
+
+Rendering Time:0.011772
+
+Rendering Time:0.007974
+
+Rendering Time:0.008295
+
+Rendering Time:0.011659
+
+Rendering Time:0.011345
+
+Rendering Time:0.00803
+
+Rendering Time:0.007949
+
+Rendering Time:0.007707
+
+Rendering Time:0.011172
+
+Rendering Time:0.007743
+
+Rendering Time:0.01177
+
+Rendering Time:0.010344
+
+Rendering Time:0.00683
+
+Rendering Time:0.011043
+
+Rendering Time:0.010705
+
+Rendering Time:0.007296
+
+Rendering Time:0.007045
+
+Rendering Time:0.008621
+
+Rendering Time:0.011515
+
+Rendering Time:0.007726
+
+Rendering Time:0.008574
+
+Rendering Time:0.009916
+
+Rendering Time:0.008455
+
+Rendering Time:0.012145
+
+Rendering Time:0.012135
+
+Rendering Time:0.011327
+
+Rendering Time:0.013798
+
+Rendering Time:0.008649
+
+Rendering Time:0.01322
+
+128, 32, 8
+Algorithm Time: 0.000845
+Rendering Time:0.046429
+
+256, 64, 20
+Algorithm Time: 0.004122
+Rendering Time:0.054885
+
+Rendering Time:0.04056
+
+256, 64, 20
+Algorithm Time: 0.00338
+Rendering Time:0.034681
+
+Rendering Time:0.035887
+
+Rendering Time:0.013293
+
+Rendering Time:0.032017
+
+Rendering Time:0.012005
+
+Rendering Time:0.011829
+
+Rendering Time:0.009345
+
+Rendering Time:0.019187
+
+Rendering Time:0.007087
+
+128, 32, 8
+Algorithm Time: 0.000799
+Rendering Time:0.008119
+
+Rendering Time:0.00824
+
+128, 32, 8
+Algorithm Time: 0.000887
+Rendering Time:0.007446
+
+Rendering Time:0.032447
+
+Rendering Time:0.011316
+
+Rendering Time:0.030153
+
+Rendering Time:0.012039
+
+Rendering Time:0.030509
+
+Rendering Time:0.009984
+
+Rendering Time:0.013472
+
+Rendering Time:0.010608
+
+Rendering Time:0.009456
+
+Rendering Time:0.008874
+
+Rendering Time:0.009982
+
+Rendering Time:0.011887
+
+Rendering Time:0.0105
+
+Rendering Time:0.011329
+
+Rendering Time:0.010758
+
+Rendering Time:0.009536
+
+Rendering Time:0.011429
+
+Rendering Time:0.01127
+
+Rendering Time:0.011193
+
+Rendering Time:0.010649
+
+Rendering Time:0.01077
+
+Rendering Time:0.011258
+
+Rendering Time:0.010496
+
+Rendering Time:0.008772
+
+Rendering Time:0.010266
+
+Rendering Time:0.007048
+
+Rendering Time:0.007599
+
+Rendering Time:0.01185
+
+Rendering Time:0.00755
+
+Rendering Time:0.011742
+
+Rendering Time:0.008884
+
+Rendering Time:0.010261
+
+Rendering Time:0.010663
+
+Rendering Time:0.011172
+
+Rendering Time:0.011019
+
+Rendering Time:0.009107
+
+Rendering Time:0.008289
+
+Rendering Time:0.0091
+
+Rendering Time:0.00809
+
+Rendering Time:0.007186
+
+Rendering Time:0.01207
+
+Rendering Time:0.007704
+
+Rendering Time:0.007976
+
+Rendering Time:0.007383
+
+Rendering Time:0.007101
+
+Rendering Time:0.008539
+
+Rendering Time:0.008514
+
+Rendering Time:0.010717
+
+Rendering Time:0.011007
+
+Rendering Time:0.009816
+
+Rendering Time:0.008938
+
+Rendering Time:0.009486
+
+Rendering Time:0.009265
+
+Rendering Time:0.011669
+
+Rendering Time:0.009836
+
+Rendering Time:0.009414
+
+Rendering Time:0.008649
+
+Rendering Time:0.01183
+
+Rendering Time:0.008702
+
+Rendering Time:0.010437
+
+Rendering Time:0.009973
+
+Rendering Time:0.010891
+
+Rendering Time:0.011165
+
+Rendering Time:0.010423
+
+Rendering Time:0.008512
+
+Rendering Time:0.009986
+
+Rendering Time:0.012061
+
+Rendering Time:0.012523
+
+Rendering Time:0.009178
+
+Rendering Time:0.008624
+
+Rendering Time:0.0089
+
+Rendering Time:0.01028
+
+Rendering Time:0.009246
+
+Rendering Time:0.011716
+
+Rendering Time:0.010006
+
+Rendering Time:0.009906
+
+Rendering Time:0.011443
+
+Rendering Time:0.011579
+
+Rendering Time:0.010084
+
+Rendering Time:0.010954
+
+Rendering Time:0.010123
+
+Rendering Time:0.009482
+
+Rendering Time:0.010065
+
+Rendering Time:0.010459
+
+Rendering Time:0.011324
+
+Rendering Time:0.011142
+
+Rendering Time:0.010519
+
+Rendering Time:0.009419
+
+Rendering Time:0.011635
+
+Rendering Time:0.011868
+
+Rendering Time:0.009151
+
+Rendering Time:0.011835
+
+Rendering Time:0.00855
+
+Rendering Time:0.011161
+
+Rendering Time:0.010195
+
+Rendering Time:0.009524
+
+Rendering Time:0.008579
+
+Rendering Time:0.007287
+
+Rendering Time:0.008604
+
+Rendering Time:0.010109
+
+Rendering Time:0.011262
+
+Rendering Time:0.010087
+
+Rendering Time:0.00932
+
+Rendering Time:0.007921
+
+Rendering Time:0.011846
+
+Rendering Time:0.008493
+
+Rendering Time:0.009685
+
+Rendering Time:0.015031
+
+128, 32, 8
+Algorithm Time: 0.000856
+Rendering Time:0.008331
+
+Rendering Time:0.008164
+
+Rendering Time:0.011765
+
+Rendering Time:0.009448
+
+Rendering Time:0.011421
+
+Rendering Time:0.012619
+
+Rendering Time:0.011981
+
+Rendering Time:0.012326
+
+Rendering Time:0.011457
+
+Rendering Time:0.011852
+
+Rendering Time:0.007202
+
+Rendering Time:0.008116
+
+Rendering Time:0.007291
+
+Rendering Time:0.009396
+
+Rendering Time:0.007825
+
+Rendering Time:0.011663
+
+Rendering Time:0.011622
+
+Rendering Time:0.008528
+
+Rendering Time:0.007926
+
+Rendering Time:0.010456
+
+Rendering Time:0.008655
+
+Rendering Time:0.010348
+
+Rendering Time:0.009722
+
+Rendering Time:0.010923
+
+Rendering Time:0.01323
+
+Rendering Time:0.008843
+
+Rendering Time:0.007862
+
+Rendering Time:0.01085
+
+Rendering Time:0.008809
+
+Rendering Time:0.008672
+
+Rendering Time:0.008545
+
+Rendering Time:0.007936
+
+Rendering Time:0.009608
+
+Rendering Time:0.011053
+
+Rendering Time:0.012556
+
+Rendering Time:0.011404
+
+Rendering Time:0.010053
+
+Rendering Time:0.010924
+
+Rendering Time:0.009393
+
+Rendering Time:0.009064
+
+Rendering Time:0.011649
+
+Rendering Time:0.008197
+
+Rendering Time:0.008844
+
+Rendering Time:0.007872
+
+Rendering Time:0.007958
+
+Rendering Time:0.009022
+
+Rendering Time:0.009367
+
+Rendering Time:0.008588
+
+Rendering Time:0.010696
+
+Rendering Time:0.009784
+
+Rendering Time:0.007936
+
+Rendering Time:0.012129
+
+Rendering Time:0.009204
+
+Rendering Time:0.008912
+
+Rendering Time:0.01129
+
+Rendering Time:0.011899
+
+Rendering Time:0.008458
+
+Rendering Time:0.008881
+
+Rendering Time:0.010745
+
+Rendering Time:0.007919
+
+Rendering Time:0.008968
+
+Rendering Time:0.008363
+
+Rendering Time:0.006891
+
+Rendering Time:0.00745
+
+Rendering Time:0.008444
+
+Rendering Time:0.010137
+
+Rendering Time:0.011799
+
+Rendering Time:0.007174
+
+Rendering Time:0.011319
+
+Rendering Time:0.01019
+
+Rendering Time:0.007286
+
+Rendering Time:0.010368
+
+Rendering Time:0.008669
+
+Rendering Time:0.009301
+
+Rendering Time:0.009862
+
+Rendering Time:0.011506
+
+Rendering Time:0.012282
+
+Rendering Time:0.01252
+
+Rendering Time:0.00969
+
+Rendering Time:0.011264
+
+Rendering Time:0.01143
+
+Rendering Time:0.011168
+
+Rendering Time:0.011172
+
+Rendering Time:0.011378
+
+Rendering Time:0.044287
+
+256, 64, 16
+Algorithm Time: 0.003227
+Rendering Time:0.040834
+
+Rendering Time:0.038178
+
+Rendering Time:0.039941
+
+Rendering Time:0.039404
+
+Rendering Time:0.028908
+
+Rendering Time:0.037745
+
+Rendering Time:0.037549
+
+Rendering Time:0.035341
+
+Rendering Time:0.036101
+
+Rendering Time:0.039757
+
+Rendering Time:0.035969
+
+Rendering Time:0.039195
+
+Rendering Time:0.041481
+
+Rendering Time:0.035085
+
+Rendering Time:0.036637
+
+Rendering Time:0.041171
+
+Rendering Time:0.045853
+
+Rendering Time:0.046825
+
+Rendering Time:0.035968
+
+Rendering Time:0.035224
+
+Rendering Time:0.040693
+
+Rendering Time:0.038097
+
+Rendering Time:0.038959
+
+Rendering Time:0.039784
+
+Rendering Time:0.038546
+
+Rendering Time:0.037635
+
+Rendering Time:0.044153
+
+Rendering Time:0.038028
+
+Rendering Time:0.034402
+
+Rendering Time:0.034848
+
+Rendering Time:0.03714
+
+Rendering Time:0.043038
+
+Rendering Time:0.034237
+
+Rendering Time:0.035517
+
+Rendering Time:0.032506
+
+Rendering Time:0.043653
+
+Rendering Time:0.034253
+
+Rendering Time:0.036045
+
+Rendering Time:0.03835
+
+Rendering Time:0.035753
+
+Rendering Time:0.036643
+
+Rendering Time:0.034303
+
+Rendering Time:0.039163
+
+Rendering Time:0.03503
+
+Rendering Time:0.039776
+
+Rendering Time:0.042754
+
+Rendering Time:0.034293
+
+256, 64, 16
+Algorithm Time: 0.00332
+Rendering Time:0.039996
+
+256, 64, 16
+Algorithm Time: 0.003351
+Rendering Time:0.039368
+
+256, 64, 16
+Algorithm Time: 0.002987
+Rendering Time:0.030114
+
+256, 64, 16
+Algorithm Time: 0.00335
+Rendering Time:0.039171
+
+256, 64, 16
+Algorithm Time: 0.003547
+Rendering Time:0.053116
+
+Rendering Time:0.044794
+
+Rendering Time:0.045901
+
+Rendering Time:0.047542
+
+Rendering Time:0.036285
+
+Rendering Time:0.034772
+
+Rendering Time:0.039637
+
+Rendering Time:0.045735
+
+Rendering Time:0.034605
+
+Rendering Time:0.041297
+
+Rendering Time:0.035847
+
+Rendering Time:0.037461
+
+Rendering Time:0.033089
+
+Rendering Time:0.032055
+
+Rendering Time:0.035665
+
+Rendering Time:0.038838
+
+Rendering Time:0.044537
+
+256, 64, 16
+Algorithm Time: 0.00333
+Rendering Time:0.046195
+
+Rendering Time:0.034713
+
+Rendering Time:0.007957
+
+Rendering Time:0.036018
+
+Rendering Time:0.010287
+
+Rendering Time:0.032731
+
+Rendering Time:0.009258
+
+Rendering Time:0.03098
+
+Rendering Time:0.012405
+
+Rendering Time:0.03279
+
+Rendering Time:0.011457
+
+Rendering Time:0.018117
+
+Rendering Time:0.014325
+
+Rendering Time:0.014356
+
+Rendering Time:0.011801
+
+Rendering Time:0.014298
+
+Rendering Time:0.013171
+
+Rendering Time:0.011217
+
+Rendering Time:0.013329
+
+Rendering Time:0.012166
+
+Rendering Time:0.009906
+
+Rendering Time:0.012754
+
+Rendering Time:0.010292
+
+Rendering Time:0.012296
+
+Rendering Time:0.01125
+
+Rendering Time:0.013763
+
+Rendering Time:0.010654
+
+Rendering Time:0.015494
+
+Rendering Time:0.012645
+
+Rendering Time:0.012403
+
+Rendering Time:0.013302
+
+Rendering Time:0.010289
+
+Rendering Time:0.008481
+
+Rendering Time:0.013991
+
+Rendering Time:0.013469
+
+Rendering Time:0.01034
+
+Rendering Time:0.012302
+
+Rendering Time:0.013753
+
+Rendering Time:0.012678
+
+Rendering Time:0.013482
+
+Rendering Time:0.012338
+
+Rendering Time:0.011337
+
+Rendering Time:0.012519
+
+Rendering Time:0.011868
+
+Rendering Time:0.011677
+
+Rendering Time:0.012399
+
+Rendering Time:0.013432
+
+Rendering Time:0.014039
+
+Rendering Time:0.012451
+
+Rendering Time:0.013864
+
+Rendering Time:0.009247
+
+Rendering Time:0.012393
+
+Rendering Time:0.010211
+
+Rendering Time:0.009794
+
+Rendering Time:0.010016
+
+Rendering Time:0.012675
+
+Rendering Time:0.011838
+
+Rendering Time:0.009109
+
+Rendering Time:0.012583
+
+Rendering Time:0.012296
+
+Rendering Time:0.010767
+
+Rendering Time:0.013358
+
+Rendering Time:0.0089
+
+Rendering Time:0.014935
+
+Rendering Time:0.011888
+
+Rendering Time:0.012941
+
+Rendering Time:0.013769
+
+Rendering Time:0.008696
+
+Rendering Time:0.010579
+
+Rendering Time:0.009281
+
+Rendering Time:0.012144
+
+Rendering Time:0.008975
+
+Rendering Time:0.0093
+
+Rendering Time:0.009634
+
+Rendering Time:0.011878
+
+Rendering Time:0.012273
+
+Rendering Time:0.008466
+
+Rendering Time:0.014749
+
+Rendering Time:0.012554
+
+Rendering Time:0.011404
+
+Rendering Time:0.008956
+
+Rendering Time:0.011984
+
+Rendering Time:0.01151
+
+Rendering Time:0.009594
+
+Rendering Time:0.011524
+
+Rendering Time:0.009585
+
+Rendering Time:0.011722
+
+Rendering Time:0.010945
+
+Rendering Time:0.011021
+
+Rendering Time:0.011668
+
+Rendering Time:0.009444
+
+Rendering Time:0.010538
+
+Rendering Time:0.010805
+
+Rendering Time:0.010643
+
+Rendering Time:0.009388
+
+Rendering Time:0.009323
+
+Rendering Time:0.01087
+
+Rendering Time:0.008409
+
+Rendering Time:0.010067
+
+Rendering Time:0.01095
+
+Rendering Time:0.010523
+
+Rendering Time:0.012112
+
+Rendering Time:0.011114
+
+Rendering Time:0.010731
+
+Rendering Time:0.007696
+
+Rendering Time:0.011584
+
+Rendering Time:0.007019
+
+Rendering Time:0.00866
+
+Rendering Time:0.008683
+
+Rendering Time:0.009449
+
+Rendering Time:0.009866
+
+Rendering Time:0.008776
+
+Rendering Time:0.011501
+
+Rendering Time:0.012389
+
+Rendering Time:0.012251
+
+Rendering Time:0.010425
+
+Rendering Time:0.009104
+
+Rendering Time:0.008756
+
+Rendering Time:0.011715
+
+Rendering Time:0.009657
+
+Rendering Time:0.009299
+
+Rendering Time:0.008351
+
+Rendering Time:0.008861
+
+Rendering Time:0.011563
+
+Rendering Time:0.010365
+
+Rendering Time:0.034075
+
+Rendering Time:0.010266
+
+Rendering Time:0.030586
+
+Rendering Time:0.01143
+
+Rendering Time:0.030843
+
+Rendering Time:0.012192
+
+Rendering Time:0.02739
+
+Rendering Time:0.01314
+
+Rendering Time:0.032839
+
+Rendering Time:0.012061
+
+Rendering Time:0.028387
+
+Rendering Time:0.011651
+
+Rendering Time:0.026713
+
+Rendering Time:0.008323
+
+Rendering Time:0.031028
+
+Rendering Time:0.010401
+
+Rendering Time:0.013208
+
+Rendering Time:0.009233
+
+Rendering Time:0.01187
+
+Rendering Time:0.009921
+
+Rendering Time:0.009837
+
+Rendering Time:0.01187
+
+Rendering Time:0.009753
+
+Rendering Time:0.011284
+
+Rendering Time:0.009916
+
+Rendering Time:0.010205
+
+Rendering Time:0.01202
+
+Rendering Time:0.011947
+
+Rendering Time:0.010092
+
+Rendering Time:0.008478
+
+Rendering Time:0.01001
+
+Rendering Time:0.011033
+
+Rendering Time:0.011287
+
+Rendering Time:0.012996
+
+Rendering Time:0.012482
+
+Rendering Time:0.010924
+
+Rendering Time:0.011692
+
+Rendering Time:0.011779
+
+Rendering Time:0.011991
+
+Rendering Time:0.010023
+
+Rendering Time:0.012286
+
+Rendering Time:0.010436
+
+Rendering Time:0.011668
+
+Rendering Time:0.007883
+
+Rendering Time:0.008786
+
+Rendering Time:0.008798
+
+Rendering Time:0.007847
+
+Rendering Time:0.008053
+
+Rendering Time:0.008446
+
+Rendering Time:0.010522
+
+Rendering Time:0.009126
+
+Rendering Time:0.011057
+
+Rendering Time:0.008271
+
+Rendering Time:0.010874
+
+Rendering Time:0.010785
+
+Rendering Time:0.00983
+
+Rendering Time:0.011692
+
+Rendering Time:0.01166
+
+Rendering Time:0.012864
+
+Rendering Time:0.010554
+
+Rendering Time:0.012587
+
+Rendering Time:0.013143
+
+Rendering Time:0.013183
+
+Rendering Time:0.009933
+
+Rendering Time:0.012443
+
+Rendering Time:0.011255
+
+Rendering Time:0.009746
+
+Rendering Time:0.008615
+
+Rendering Time:0.012304
+
+Rendering Time:0.008489
+
+Rendering Time:0.008774
+
+Rendering Time:0.009328
+
+Rendering Time:0.008796
+
+Rendering Time:0.007637
+
+Rendering Time:0.008369
+
+Rendering Time:0.008741
+
+Rendering Time:0.008546
+
+Rendering Time:0.01236
+
+Rendering Time:0.008275
+
+Rendering Time:0.008077
+
+Rendering Time:0.011337
+
+Rendering Time:0.012316
+
+Rendering Time:0.008968
+
+Rendering Time:0.011307
+
+Rendering Time:0.008533
+
+Rendering Time:0.009815
+
+Rendering Time:0.030397
+
+Rendering Time:0.012662
+
+Rendering Time:0.01128
+
+Rendering Time:0.011073
+
+Rendering Time:0.009793
+
+Rendering Time:0.00922
+
+Rendering Time:0.011467
+
+Rendering Time:0.011084
+
+Rendering Time:0.009548
+
+Rendering Time:0.011237
+
+Rendering Time:0.010679
+
+Rendering Time:0.011532
+
+Rendering Time:0.009733
+
+Rendering Time:0.00946
+
+Rendering Time:0.011497
+
+Rendering Time:0.009214
+
+Rendering Time:0.011015
+
+Rendering Time:0.010729
+
+Rendering Time:0.010515
+
+Rendering Time:0.010681
+
+Rendering Time:0.01045
+
+Rendering Time:0.010116
+
+Rendering Time:0.007467
+
+Rendering Time:0.007805
+
+Rendering Time:0.009714
+
+Rendering Time:0.007369
+
+Rendering Time:0.007041
+
+Rendering Time:0.007873
+
+Rendering Time:0.009639
+
+Rendering Time:0.007692
+
+Rendering Time:0.009036
+
+Rendering Time:0.009753
+
+Rendering Time:0.010226
+
+Rendering Time:0.011454
+
+Rendering Time:0.009664
+
+Rendering Time:0.011017
+
+Rendering Time:0.010127
+
+Rendering Time:0.012417
+
+Rendering Time:0.00939
+
+Rendering Time:0.009965
+
+Rendering Time:0.011748
+
+Rendering Time:0.009486
+
+Rendering Time:0.008959
+
+Rendering Time:0.009301
+
+Rendering Time:0.010956
+
+Rendering Time:0.009285
+
+Rendering Time:0.008656
+
+Rendering Time:0.009155
+
+Rendering Time:0.010374
+
+Rendering Time:0.010801
+
+Rendering Time:0.01092
+
+Rendering Time:0.00859
+
+Rendering Time:0.010481
+
+Rendering Time:0.01005
+
+Rendering Time:0.009641
+
+Rendering Time:0.008428
+
+Rendering Time:0.010726
+
+Rendering Time:0.011778
+
+Rendering Time:0.010184
+
+Rendering Time:0.01019
+
+Rendering Time:0.028634
+
+Rendering Time:0.010175
+
+Rendering Time:0.003896
+
+Rendering Time:0.002644
+
+Rendering Time:0.001531
+
+Rendering Time:0.002662
+
+Rendering Time:0.001522
+
+Rendering Time:0.001783
+
+Rendering Time:0.001792
+
+Rendering Time:0.003145
+
+Rendering Time:0.003334
+
+Rendering Time:0.001852
+
+Rendering Time:0.00265
+
+Rendering Time:0.001738
+
+Rendering Time:0.002397
+
+Rendering Time:0.001728
+
+Rendering Time:0.001772
+
+Rendering Time:0.002847
+
+Rendering Time:0.002046
+
+Rendering Time:0.002123
+
+Rendering Time:0.001781
+
+Rendering Time:0.002519
+
+Rendering Time:0.001688
+
+Rendering Time:0.002734
+
+Rendering Time:0.002015
+
+Rendering Time:0.002871
+
+Rendering Time:0.002353
+
+Rendering Time:0.00172
+
+Rendering Time:0.002687
+
+Rendering Time:0.001838
+
+Rendering Time:0.003271
+
+Rendering Time:0.001897
+
+Rendering Time:0.002294
+
+Rendering Time:0.002395
+
+Rendering Time:0.002895
+
+Rendering Time:0.002397
+
+Rendering Time:0.002022
+
+Rendering Time:0.002073
+
+Rendering Time:0.00199
+
+Rendering Time:0.001791
+
+Rendering Time:0.001647
+
+Rendering Time:0.002162
+
+Rendering Time:0.001514
+
+Rendering Time:0.001766
+
+Rendering Time:0.002587
+
+Rendering Time:0.002006
+
+Rendering Time:0.0015
+
+Rendering Time:0.002667
+
+Rendering Time:0.001843
+
+Rendering Time:0.001504
+
+Rendering Time:0.002694
+
+Rendering Time:0.001545
+
+Rendering Time:0.001868
+
+Rendering Time:0.001494
+
+Rendering Time:0.001624
+
+Rendering Time:0.00207
+
+Rendering Time:0.001871
+
+Rendering Time:0.002633
+
+Rendering Time:0.002669
+
+Rendering Time:0.002474
+
+Rendering Time:0.001768
+
+Rendering Time:0.002593
+
+Rendering Time:0.001848
+
+Rendering Time:0.002278
+
+Rendering Time:0.002194
+
+Rendering Time:0.002024
+
+Rendering Time:0.001744
+
+Rendering Time:0.001789
+
+Rendering Time:0.002856
+
+Rendering Time:0.001655
+
+Rendering Time:0.001498
+
+Rendering Time:0.001952
+
+Rendering Time:0.001516
+
+Rendering Time:0.001493
+
+Rendering Time:0.001851
+
+Rendering Time:0.001531
+
+Rendering Time:0.001561
+
+Rendering Time:0.001511
+
+Rendering Time:0.002645
+
+Rendering Time:0.001583
+
+Rendering Time:0.001537
+
+Rendering Time:0.001604
+
+Rendering Time:0.001494
+
+Rendering Time:0.001781
+
+Rendering Time:0.001509
+
+Rendering Time:0.002286
+
+Rendering Time:0.001759
+
+Rendering Time:0.001594
+
+Rendering Time:0.001887
+
+Rendering Time:0.001768
+
+Rendering Time:0.001504
+
+Rendering Time:0.001521
+
+Rendering Time:0.001478
+
+Rendering Time:0.001512
+
+Rendering Time:0.00147
+
+Rendering Time:0.001781
+
+Rendering Time:0.001776
+
+Rendering Time:0.026141
+
+Rendering Time:0.012014
+

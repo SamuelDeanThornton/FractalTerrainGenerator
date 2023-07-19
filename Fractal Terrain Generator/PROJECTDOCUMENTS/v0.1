@@ -1,0 +1,114 @@
+void FractalTerrain::GenerateDSMap(int size){
+	DSMAP[0][0]	= 2;
+	cout << DSMAP[0][0];
+	DSMAP[0][size-1] = 1;
+	cout << DSMAP[0][size - 1];
+	DSMAP[size - 1][0] = 1;
+	cout << DSMAP[size - 1][0];
+	DSMAP[size - 1][size - 1] = -3;
+	cout << DSMAP[size - 1][size - 1];
+
+
+}
+
+void FractalTerrain::Square(int bounds, int x, int z, int nearby, float range){
+	int count = 0;
+	float average = 0;
+	int dir;
+	float shift;
+	//Looking for the four corners of the square 
+	//Also checking that they aren't outside of the bounds of the array
+	if (((x-nearby) >= 0) && (((z - nearby) >= 0))){
+		average += DSMAP[x-nearby][z-nearby];
+		count++;
+	}
+	if (((x-nearby) >= 0) && (((z + nearby) < bounds))){
+		average += DSMAP[(x-nearby)][(z+nearby)];
+		count++;
+	}
+	if (((x+nearby) < bounds) && (((z - nearby) >= 0))){
+		average += DSMAP[x+nearby][z-nearby];
+		count++;
+	}
+	if (((x+nearby) < bounds) && (((z + nearby) < bounds))){
+		average += DSMAP[x+nearby][z+nearby];
+		count++;
+	}
+	shift = ((double) rand()/(RAND_MAX))*range;
+	dir = (float)(rand() % 100);
+	if (dir >49){
+		shift = -shift;
+	}
+	average /= count;
+	average += shift;
+	cout << "square";
+	cout << x << ", "<< z << ": " << average << "\n";
+	DSMAP[x][z] = average;
+}
+
+void FractalTerrain::Diamond(int bounds, int x, int z, int nearby, float range){
+	int count = 0;
+	float average = 0;
+	int dir;
+	float shift;
+	//Looking for the four corners of the diamond 
+	//Also checking that they aren't outside of the bounds of the array
+	if (((x - nearby) >= 0)){
+		average += DSMAP[x-nearby][z];
+		count++;
+	}
+	if (((z - nearby) >= 0)){
+		average += DSMAP[x][z-nearby];
+		count++;
+	}
+	if (((x+nearby) < bounds)){
+		average += DSMAP[x+nearby][z];
+		count++;
+		
+	}
+	if (((z + nearby) < bounds)){
+		average += DSMAP[x][z+nearby];
+		count++;
+	}
+	shift = ((double) rand()/(RAND_MAX))*range;
+	dir = (float)(rand() % 100);
+	if (dir >49){
+		shift = -shift;
+	}
+	average += shift*10;
+	average /= count;
+	cout << "diamond";
+	cout << x << ", "<< z << ": " << average << "\n";
+	DSMAP[x][z] = average;
+}
+
+//Recursive function to calculate heightmap
+void FractalTerrain::DiamondSquare(int bounds, int size, float range){
+	int split = size/2;
+	if (split < 1){
+		return;
+	}
+
+	for (int z = split; z<bounds; z+=size){
+		for (int x = split; x<bounds; x+=size){
+			Square(bounds, x%bounds, z%bounds, split, range);
+		}
+	}
+	int column = 0;
+	for (int x = 0; x < bounds; x+= split){
+		column++;
+		if (column % 2 == 1){
+			for (int z = split; z<bounds; z+= size){
+				Diamond(bounds, x%bounds, z%bounds, split, range);
+			}
+		}else{
+			for (int z = 0; z<bounds; z+= size){
+				Diamond(bounds, x%bounds, z%bounds, split, range);
+			}
+		}
+
+	}
+	cout << "next";
+	DiamondSquare(bounds, split, range/2);
+
+}
